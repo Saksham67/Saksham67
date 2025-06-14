@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [an E-learning Plateform](https://github.com/Saksham67/E-learning-plateform)
 
-- 🌱 I’m currently learning **DSA with C++**
+- 🌱 I’m currently practicing **DSA with C++**
 
 - 📫 How to reach me **ys804885@gmail.com**
 
