@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sakshamwork158@gmail.com**
 
-<h3 align="left">Connect with me:</h3> <a href = "https://www.linkedin.com/in/saksham-kumar-038326258/"><img src= "https://www.svgrepo.com/show/157006/linkedin.svg"></a> 
+<h3 align="left">Connect with me:</h3> <a href = "https://www.linkedin.com/in/saksham-kumar-038326258/"><img src= "https://www.svgrepo.com/show/157006/linkedin.svg", height = "20px" ,width = "20px"></a> 
 <p align="left"> 
 </p>
 
