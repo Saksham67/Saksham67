@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham67&label=Profile%20views&color=0e75b6&style=flat" alt="saksham67" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham67" alt="saksham67" /></a> </p>
-
 - 🔭 I’m currently working on [an E-learning Plateform](https://github.com/Saksham67/E-Learning-Plateform)
 
 - 🌱 I’m currently practicing **DSA with C++**
 
 - 📫 How to reach me **sakshamwork158@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> <a href = "https://www.linkedin.com/in/saksham-kumar-038326258/"><img src= "https://www.svgrepo.com/show/157006/linkedin.svg"></a> 
 <p align="left"> 
 </p>
 
